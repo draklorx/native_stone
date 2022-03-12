@@ -2,7 +2,7 @@
   "feature": "minecraft:ore_andesite",
   "placement": [
     {
-      "chance": 6,
+      "chance": 4,
       "type": "minecraft:rarity_filter"
     },
     {
