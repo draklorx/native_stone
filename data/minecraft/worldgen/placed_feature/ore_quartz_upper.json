@@ -1,5 +1,5 @@
 {
-  "feature": "minecraft:ore_quartz",
+  "feature": "minecraft:ns_ore_quartz",
   "placement": [
     {
       "chance": 2,
